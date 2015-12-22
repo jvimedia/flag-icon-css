@@ -1,3 +1,4 @@
+// ISO 3166-1 Flags
 @include flag-icon(ad);
 @include flag-icon(ae);
 @include flag-icon(af);
@@ -75,7 +76,6 @@
 @include flag-icon(fr);
 @include flag-icon(ga);
 @include flag-icon(gb);
-@include flag-icon(gb-wls);
 @include flag-icon(gd);
 @include flag-icon(ge);
 @include flag-icon(gf);
@@ -248,3 +248,6 @@
 @include flag-icon(za);
 @include flag-icon(zm);
 @include flag-icon(zw);
+
+// More Flags
+@include flag-icon(gb-wls);
